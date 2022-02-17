@@ -1,2 +1,2 @@
 # TicTacToe
-TicaTacToe Game using Java and MVC architecture
+TicTacToe Game using Java and MVC architecture
