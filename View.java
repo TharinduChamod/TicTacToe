@@ -1,8 +1,6 @@
 /* 
-    E/18/285
-    S.M.T.S.C.Ranasinghe
-    CO225 Softwear Construction
-    Lab 06
+    Author - S.M.T.S.C.Ranasinghe
+    Date - 2022/02/18
 
 */
 
