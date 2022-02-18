@@ -23,4 +23,4 @@ and let the user select again until he/she picks a free button.
 
 ● Based on the pick, the game continues (in which case the other player
 should get his/her turn) or end with either a win to the current player or a draw.
-When the game ends the results displayed in a different window with exut and restart option.
+When the game ends the results displayed in a different window with exit and restart option.
