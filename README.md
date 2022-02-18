@@ -3,7 +3,9 @@ TicTacToe Game using Java and MVC architecture
 
 # MVC Architecture
 Model – Store data about variables, get signals from controller and check for winner
+
 View – View contains all GUIs of game that show to user. It is showing details based on model and changes that happens in controller
+
 Controller – Here controller is doing event handling of model and build interface between model and view
 
 # About
